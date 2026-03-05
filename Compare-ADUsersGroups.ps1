@@ -23,7 +23,7 @@
 
 .NOTES
     Requires the ActiveDirectory PowerShell module.
-    Author: IT Automation Scripts
+    Author: Shea Buckner
     Version: 1.0
 #>
 
